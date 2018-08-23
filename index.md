@@ -11,7 +11,7 @@ title: Leonardo Ortiz
 
 ```ruby
 def show
-  puts "outputting ... "
+  puts "Outputting ... "
   @widget = Widget(params[:id])
   respond_to do |format|
     format.html # show.html.erb
