@@ -8,9 +8,9 @@ title: Leonardo Ortiz
 </div>
 
 
-```ruby linenos
+```ruby
 def show
-  puts "Outputting ... "
+  puts "outputting ... "
   @widget = Widget(params[:id])
   respond_to do |format|
     format.html # show.html.erb
