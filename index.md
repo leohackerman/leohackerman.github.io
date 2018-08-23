@@ -8,8 +8,7 @@ title: Leonardo Ortiz
 </div>
 
 
-```ruby
-def foo6
-  puts 'foo'
-end
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
