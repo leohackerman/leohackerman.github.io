@@ -1,5 +1,13 @@
 theme: jekyll-theme-minimal
 name: Leonardo Ortiz
+
+footer-links:
+  email:
+  github: leohackerman
+  linkedin:
+  rss: leo
+  twitter: leoortizcr
+
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
