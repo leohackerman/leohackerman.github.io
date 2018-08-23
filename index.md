@@ -8,7 +8,7 @@ title: Leonardo Ortiz
 </div>
 
 
-{% highlight ruby linenos %}
+`{% highlight ruby linenos %}
 def show
   puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
   @widget = Widget(params[:id])
@@ -17,4 +17,4 @@ def show
     format.json { render json: @widget }
   end
 end
-{% endhighlight %}
+{% endhighlight %}`
