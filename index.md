@@ -9,6 +9,6 @@ title: Leonardo Ortiz
 
 ```ruby
 require 'redcarpet'
-markdown = Redcarpet.new("Hello World")
+markdown = Redcarpet.new("Hello World>")
 puts markdown.to_html
 ```
