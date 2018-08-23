@@ -12,7 +12,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-size: .8em;
+    font-size: .10pt;
 
 }
 a {
@@ -32,7 +32,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 10pt;
 }
 
 ul.posts { 
