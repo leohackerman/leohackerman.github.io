@@ -9,7 +9,7 @@ title: Leonardo Ortiz
 
 
 ```ruby
-def foo5
+def foo6
   puts 'foo'
 end
 ```
