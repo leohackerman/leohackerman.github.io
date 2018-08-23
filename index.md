@@ -7,6 +7,7 @@ title: Leonardo Ortiz
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
 
+{% avatar leohackerman %}
 
 ```ruby
 def show
