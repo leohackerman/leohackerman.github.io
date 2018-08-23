@@ -1,12 +1,12 @@
 body {
-    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
 nav ul li, footer ul li {
