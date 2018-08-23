@@ -3,7 +3,7 @@ layout: default
 title: Leonardo Ortiz
 ---
 <div class="blurb">
-	<img class="avatar avatar-small" src="https://avatars2.githubusercontent.com/u/42592238?v=4" alt="Leonardo Ortiz" width="25%" height="25%" />
+	<img class="avatar avatar-small" src="https://avatars2.githubusercontent.com/u/42592238?v=4" alt="Leonardo Ortiz" width="22%" height="22%" />
 	<h1>Leonardo Ortiz</h1>
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
