@@ -6,7 +6,6 @@ title: Leonardo Ortiz
 	<h1>Leonardo Ortiz</h1>
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
-```python 
-def function():
-  print('Yes')
-```
+{% highlight bash %}
+cd ~
+{% endhighlight %}
