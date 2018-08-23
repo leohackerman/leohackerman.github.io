@@ -6,6 +6,7 @@ title: Leonardo Ortiz
 	<h1>Leonardo Ortiz</h1>
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World")
