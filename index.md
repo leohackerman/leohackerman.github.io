@@ -7,8 +7,7 @@ title: Leonardo Ortiz
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World")
-puts markdown.to_html
+```java
+public static void MyClass(){
+}
 ```
