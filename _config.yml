@@ -2,4 +2,3 @@ theme: jekyll-theme-minimal
 name: Leonardo Ortiz
 markdown: kramdown
 highlighter: rouge
-line_numbers: true
