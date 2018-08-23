@@ -7,10 +7,10 @@ title: Leonardo Ortiz
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
 
-{% highlight ruby %}
+```ruby
 def foo4
   puts 'foo'
 end
-{% endhighlight %}
+```
 
 lala
