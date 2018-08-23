@@ -6,6 +6,8 @@ title: Leonardo Ortiz
 	<h1>Leonardo Ortiz</h1>
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
-{% highlight bash %}
-cd ~
-{% endhighlight %}
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
