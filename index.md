@@ -8,7 +8,7 @@ title: Leonardo Ortiz
 </div>
 
 ```ruby
-def foo
+def foo2
   puts 'foo'
 end
 ```
