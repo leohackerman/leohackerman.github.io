@@ -13,6 +13,3 @@ def foo6
   puts 'foo'
 end
 ```
-
-
-lala
