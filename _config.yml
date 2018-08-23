@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 name: Leonardo Ortiz
 markdown: kramdown
 kramdown:
