@@ -7,7 +7,8 @@ title: Leonardo Ortiz
 	<p>Husband, programmer, father of 2 cats</p>
 </div>
 
-```java
-public static void MyClass(){
-}
-```
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
