@@ -8,10 +8,13 @@ Software Engineer with 12+ years of experience working on software development. 
 ## Keywords
 Android, iOS, Swift, Kotlin , Java, Go, AWS, Kafka, IoT, Embedded, React Programming, Bluetooth, JavaRx, SwiftRx, TDD, Agile, Scrum, Git.
 ## Experience
-<img src="/assets/molekule.jpg" alt="Molekule" width="15%" height="15%">
-<p></p>
-
 <div>
+	<img src="/assets/molekule.jpg" alt="Molekule" width="15%" height="15%">	
+</div>
+
+
+
+
 **Principal Software Engineer at Molekule**
 
 ___San Francisco CA/Costa Rica___
@@ -21,7 +24,7 @@ __November 2017 – Now__
 
 
 As the sole Principal Software Engineer at Molekule is my responsibility to ensure all the different software teams (Embedded, Cloud & Mobile) share the same vision and follow the best engineering practices to ensure the quality and delivery of our products. Part of my daily work include: architecture design and proofing, research and development of new technologies, work side by side with the development teams on feature augmentation and gather requirements from different stakeholders. 
-</div>
+
 
 
 <p/>
