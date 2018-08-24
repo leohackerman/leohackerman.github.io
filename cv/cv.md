@@ -4,7 +4,7 @@ title: Leonardo Ortiz
 ---
 # Leonardo Ortiz
 
-Get the <a href="/assets/cv.pdf">pdf version</a>.
+See the full version <a href="/assets/cv.pdf">here</a>.
 <p></p>
 
 ## Summary
