@@ -10,7 +10,7 @@ Android, iOS, Swift, Kotlin , Java, Go, AWS, Kafka, IoT, Embedded, React Program
 <p></p>
 ## Experience
 <div>
-	<img src="/assets/molekule.jpg" alt="Molekule" width="15%" height="15%">	
+	<img src="/assets/molekule.jpg" alt="Molekule" width="10%" height="10%">	
 </div>
 
 **Principal Software Engineer at Molekule**
@@ -24,7 +24,7 @@ __November 2017 – Now__
 As the sole Principal Software Engineer at Molekule is my responsibility to ensure all the different software teams (Embedded, Cloud & Mobile) share the same vision and follow the best engineering practices to ensure the quality and delivery of our products. Part of my daily work include: architecture design and proofing, research and development of new technologies, work side by side with the development teams on feature augmentation and gather requirements from different stakeholders. 
 
 <div>
-	<img src="/assets/intralinks.png" alt="Intralinks" width="15%" height="15%">	
+	<img src="/assets/intralinks.png" alt="Intralinks" width="10%" height="10%">	
 </div>
 
 **Software Architect at Intralinks**
@@ -39,7 +39,7 @@ __November 2014 – September 2017__
 Member of the Research and Development team at Intralinks. During that time I worked on different projects for secure encrypting files, user authentication through iBeacons and similar Bluetooth devices, mobile notification architectures (Lightstreamer, Firebase) and Hybrid development using React Native.
 
 <div>
-	<img src="/assets/gorillalogic.png" alt="Gorilla Logic" width="15%" height="15%">	
+	<img src="/assets/gorillalogic.png" alt="Gorilla Logic" width="10%" height="10%">	
 </div>
 
 **Senior Software Engineer (Contractor) at Gorilla Logic**
@@ -54,7 +54,7 @@ __February 2014 – October 2014__
 Senior mobile developer, worked on E-Commerce applications on both Android and iOS.
 
 <div>
-	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="20%" height="20%">	
+	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="10%" height="10%">	
 </div>
 <p/>
 
@@ -70,7 +70,7 @@ __May 2012 – November 2014__
 Mobile and Web developer for Fi-Mobile, a Texas based financial institution.
 
 <div>
-	<img src="/assets/bosz.png" alt="Bosz" width="15%" height="15%">	
+	<img src="/assets/bosz.png" alt="Bosz" width="10%" height="10%">	
 </div>
 
 **Principal Software Engineer at BOSZ digital Costa Rica**
