@@ -88,8 +88,8 @@ __May 2011 – May 2012__
 
 Principal software engineer for the mobile team. Worked on mobile apps using augmented reality for various clients.
 
-<p/>
-<p/>
+<br/>
+<br/>
 
 ## Education
 <div>
