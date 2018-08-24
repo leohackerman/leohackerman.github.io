@@ -85,11 +85,12 @@ __May 2011 – May 2012__
 Principal software engineer for the mobile team. Worked on mobile apps using augmented reality for various clients.
 
 <p/>
+
+
+## Education
 <div>
 	<img src="/assets/tec.png" alt="Tec" width="10%" height="10%">	
 </div>
-
-## Education
 **Major on Computer Engineering**
 <p/>
 ___Costa Rica Institute of Technology___
