@@ -95,7 +95,7 @@ Principal software engineer for the mobile team. Worked on mobile apps using aug
 <div>
 	<img src="/assets/tec.png" alt="Tec" width="10%" height="10%">	
 </div>
-**Major on Computer Engineering**
+**Major in Computer Engineering**
 <p/>
 ___Costa Rica Institute of Technology___
 <p/>
