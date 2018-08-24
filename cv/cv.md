@@ -38,7 +38,10 @@ __November 2014 – September 2017__
 
 Member of the Research and Development team at Intralinks. During that time I worked on different projects for secure encrypting files, user authentication through iBeacons and similar Bluetooth devices, mobile notification architectures (Lightstreamer, Firebase) and Hybrid development using React Native.
 
-<p/>
+<div>
+	<img src="/assets/gorillalogic.png" alt="Gorilla Logic" width="15%" height="15%">	
+</div>
+
 **Senior Software Engineer (Contractor) at Gorilla Logic**
 <p/>
 ___Costa Rica___
