@@ -56,6 +56,7 @@ Senior mobile developer, worked on E-Commerce applications on both Android and i
 <div>
 	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="20%" height="20%">	
 </div>
+<p/>
 
 **Senior Software Engineer at Fi-Mobile**
 <p/>
