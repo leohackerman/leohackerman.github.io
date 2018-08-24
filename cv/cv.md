@@ -8,7 +8,7 @@ Software Engineer with 12+ years of experience working on software development. 
 ## Keywords
 Android, iOS, Swift, Kotlin , Java, Go, AWS, Kafka, IoT, Embedded, React Programming, Bluetooth, JavaRx, SwiftRx, TDD, Agile, Scrum, Git.
 ## Experience
-<img src="/assets/molekule.jpg" alt="Molekule" width="20pt" height="20pt">
+<img src="/assets/molekule.jpg" alt="Molekule" width="15%" height="15%">
 **Principal Software Engineer at Molekule**
 <p/>
 ___San Francisco CA/Costa Rica___
