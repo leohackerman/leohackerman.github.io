@@ -53,7 +53,10 @@ __February 2014 – October 2014__
 
 Senior mobile developer, worked on E-Commerce applications on both Android and iOS.
 
-<p/>
+<div>
+	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="15%" height="15%">	
+</div>
+
 **Senior Software Engineer at Fi-Mobile**
 <p/>
 ___Costa Rica___
@@ -65,7 +68,10 @@ __May 2012 – November 2014__
 
 Mobile and Web developer for Fi-Mobile, a Texas based financial institution.
 
-<p/>
+<div>
+	<img src="/assets/bosz.png" alt="Bosz" width="15%" height="15%">	
+</div>
+
 **Principal Software Engineer at BOSZ digital Costa Rica**
 <p/>
 ___Costa Rica___
