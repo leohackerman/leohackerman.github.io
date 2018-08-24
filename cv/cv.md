@@ -12,16 +12,15 @@ Android, iOS, Swift, Kotlin , Java, Go, AWS, Kafka, IoT, Embedded, React Program
 <p></p>
 
 <div>
-	**Principal Software Engineer at Molekule**
+**Principal Software Engineer at Molekule**
 
-	___San Francisco CA/Costa Rica___
-
-
-	__November 2017 – Now__
+___San Francisco CA/Costa Rica___
 
 
+__November 2017 – Now__
 
-	As the sole Principal Software Engineer at Molekule is my responsibility to ensure all the different software teams (Embedded, Cloud & Mobile) share the same vision and follow the best engineering practices to ensure the quality and delivery of our products. Part of my daily work include: architecture design and proofing, research and development of new technologies, work side by side with the development teams on feature augmentation and gather requirements from different stakeholders. 
+
+As the sole Principal Software Engineer at Molekule is my responsibility to ensure all the different software teams (Embedded, Cloud & Mobile) share the same vision and follow the best engineering practices to ensure the quality and delivery of our products. Part of my daily work include: architecture design and proofing, research and development of new technologies, work side by side with the development teams on feature augmentation and gather requirements from different stakeholders. 
 </div>
 
 
