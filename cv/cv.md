@@ -78,7 +78,7 @@ Mobile and Web developer for Fi-Mobile, a Texas based financial institution.
 	<img src="/assets/bosz.png" alt="Bosz" width="10%" height="10%">	
 </div>
 
-**Principal Software Engineer at BOSZ digital Costa Rica**
+**Principal Software Engineer at BOSZ Digital Costa Rica**
 <p/>
 ___Costa Rica___
 <p/>
@@ -95,7 +95,7 @@ Principal software engineer for the mobile team. Worked on mobile apps using aug
 <div>
 	<img src="/assets/tec.png" alt="Tec" width="10%" height="10%">	
 </div>
-**Major on Computer Engineering**
+**Major in Computer Engineering**
 <p/>
 ___Costa Rica Institute of Technology___
 <p/>
