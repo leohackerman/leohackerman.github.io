@@ -31,6 +31,7 @@ Along with the Mobile Engineering Manager, I designed and implemented a Continuo
 * __Android and iOS apps Rewrite__
 As part of the constant effort of remove technical debt, the Stakeholders and the Mobile Team decided to rewrite the current mobile apps using modern languages (Swift 4 and Kotlin). The goal is to move from a monolithic architecture to a library-based micro architecture where all the functionalities are self-contained in functional modules and the information is shared using react programming and lambda functions. This is a work in process.
 
+<p/>
 **Software Architect at Intralinks**
 <p/>
 ___Boston MA/Costa Rica___
@@ -41,6 +42,60 @@ __November 2014 – September 2017__
 <p/>
 
 Member of the Research and Development team at Intralinks. During that time I worked on different projects for secure encrypting files, user authentication through iBeacons and similar Bluetooth devices, mobile notification architectures (Lightstreamer, Firebase) and Hybrid development using React Native.
+
+<p/>
+**Senior Software Engineer (Contractor) at Gorilla Logic**
+<p/>
+___Costa Rica___
+<p/>
+
+__February 2014 – October 2014__
+
+<p/>
+
+Senior mobile developer, worked on E-Commerce applications on both Android and iOS.
+
+<p/>
+**Senior Software Engineer at Fi-Mobile**
+<p/>
+___Costa Rica___
+<p/>
+
+__May 2012 – November 2014__
+
+<p/>
+
+Mobile and Web developer for Fi-Mobile, a Texas based financial institution.
+
+<p/>
+**Principal Software Engineer at BOSZ digital Costa Rica**
+<p/>
+___Costa Rica___
+<p/>
+
+__May 2011 – May 2012__
+
+<p/>
+
+Principal software engineer for the mobile team. Worked on mobile apps using augmented reality for various clients.
+
+<p/>
+**Software Engineer and Scrum Master at GAP, Avantica, Ridgerun and Intensa**
+<p/>
+___Costa Rica___
+<p/>
+
+__May 2005 – May 2011__
+
+<p/>
+
+
+
+
+
+
+
+
 
 
 
