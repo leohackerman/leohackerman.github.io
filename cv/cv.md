@@ -4,14 +4,15 @@ title: Leonardo Ortiz
 ---
 # Leonardo Ortiz
 
-See the full version <a href="/assets/cv.pdf">here</a>.
-<p></p>
+Check the full version <a href="/assets/cv.pdf">here</a>.
+<br/>
 
 ## Summary
 Software Engineer with 12+ years of experience working on software development. Strong in mobile development, embedded systems and high performance-scalable cloud architectures. Passionate about agile methodologies and highly effective teams.
+<br/>
 ## Keywords
 Android, iOS, Swift, Kotlin , Java, Go, AWS, Kafka, IoT, Embedded, React Programming, Bluetooth, JavaRx, SwiftRx, TDD, Agile, Scrum, Git.
-<p></p>
+<br/>
 ## Experience
 <div>
 	<img src="/assets/molekule.jpg" alt="Molekule" width="10%" height="10%">	
@@ -88,8 +89,7 @@ __May 2011 – May 2012__
 
 Principal software engineer for the mobile team. Worked on mobile apps using augmented reality for various clients.
 
-<p/>
-<p/>
+<br/>
 
 ## Education
 <div>
