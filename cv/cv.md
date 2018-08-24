@@ -54,7 +54,7 @@ __February 2014 – October 2014__
 Senior mobile developer, worked on E-Commerce applications on both Android and iOS.
 
 <div>
-	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="10%" height="10%">	
+	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="20%" height="20%">	
 </div>
 <p/>
 
