@@ -54,7 +54,7 @@ __February 2014 – October 2014__
 Senior mobile developer, worked on E-Commerce applications on both Android and iOS.
 
 <div>
-	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="15%" height="15%">	
+	<img src="/assets/fimobile.png" alt="Fi-Mobile" width="20%" height="20%">	
 </div>
 
 **Senior Software Engineer at Fi-Mobile**
@@ -83,12 +83,3 @@ __May 2011 – May 2012__
 
 Principal software engineer for the mobile team. Worked on mobile apps using augmented reality for various clients.
 
-<p/>
-**Software Engineer and Scrum Master at GAP, Avantica, Ridgerun and Intensa**
-<p/>
-___Costa Rica___
-<p/>
-
-__May 2005 – May 2011__
-
-<p/>
