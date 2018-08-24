@@ -10,7 +10,9 @@ Android, iOS, Swift, Kotlin , Java, Go, AWS, Kafka, IoT, Embedded, React Program
 ## Experience
 **Principal Software Engineer at Molekule**
 <p/>
+
 _San Francisco CA/Costa Rica_
+
 <p/>
 November 2017 – Now
 <p/>
