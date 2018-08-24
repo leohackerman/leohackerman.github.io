@@ -31,3 +31,16 @@ Along with the Mobile Engineering Manager, I designed and implemented a Continuo
 * __Android and iOS apps Rewrite__
 As part of the constant effort of remove technical debt, the Stakeholders and the Mobile Team decided to rewrite the current mobile apps using modern languages (Swift 4 and Kotlin). The goal is to move from a monolithic architecture to a library-based micro architecture where all the functionalities are self-contained in functional modules and the information is shared using react programming and lambda functions. This is a work in process.
 
+**Software Architect at Intralinks**
+<p/>
+___Boston MA/Costa Rica___
+<p/>
+
+__November 2014 – September 2017__
+
+<p/>
+
+Member of the Research and Development team at Intralinks. During that time I worked on different projects for secure encrypting files, user authentication through iBeacons and similar Bluetooth devices, mobile notification architectures (Lightstreamer, Firebase) and Hybrid development using React Native.
+
+
+
