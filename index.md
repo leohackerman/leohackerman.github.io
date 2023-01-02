@@ -2,7 +2,6 @@
 layout: default
 title: Leonardo Ortiz
 ---
-<a rel="me" href="https://mastodon.social/@leohackerman">Mastodon</a>
 <div class="blurb">
 	<img class="avatar avatar-small" src="https://avatars2.githubusercontent.com/u/42592238?v=4" alt="Leonardo Ortiz" width="20%" height="20%" />
 	<p/>
